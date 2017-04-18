@@ -1,18 +1,18 @@
 body{
-	background: #ff00d0;
+	background: magenta;
 }
 
 h1{
 	text-decoration: underline;
 	font-size: 300%;
 	text-align: center;
-	color: #26ff00;
+	color: lawngreen;
 	font-style: italic;
 	font-weight: bold;
 	-webkit-text-stroke: 2px black;
 }
 p{
-	color: #26ff00;
+	color: lawngreen;
 	font-size: 200%;
 	text-align: center;
 	text-decoration: underline;
@@ -22,7 +22,7 @@ p{
 }
 
 .pnav{
-	color: #26ff00;
+	color: lawngreen;
 	font-size: 250%;
 	text-decoration: none;
 	font-style: italic;
