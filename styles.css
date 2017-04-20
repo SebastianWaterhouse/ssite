@@ -92,3 +92,11 @@ p{
 	height: auto;
 	display: inline-block;
 }
+
+.counter {
+	width: 21vw;
+	height: auto;
+	margin: auto;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
