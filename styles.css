@@ -19,13 +19,14 @@ h1{
 }
 h2{
 	text-decoration: underline;
-	width: 48vw;
+	width: 60vw;
 	text-align: center;
 	color: maroon;
 	font-style: italic;
 	font-weight: bold;
 	-webkit-text-stroke: 2px black;
 	display:inline-block;
+	font-size:1.2vw;
 }
 p{
 	color: lime;
@@ -35,10 +36,14 @@ p{
 	font-style: italic;
 	font-weight: bold;
 }
-
+.robody{
+	color: maroon;
+	font-size: 2vw;
+	text-align: center;
+}
 .pnav{
 	color: lime;
-	font-size: 3.5vw;
+	font-size: 1.5vw;
 	text-decoration: none;
 	font-style: italic;
 	font-weight: bold;
